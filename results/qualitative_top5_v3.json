@@ -1,0 +1,126 @@
+[
+  {
+    "scene": "mmis_eval/raw/Mid-Century Modern/02_29664.jpg",
+    "vlm": {
+      "room_style": "Modern",
+      "selected_category": "Sofa",
+      "replacement_query": "This Modern sofa would complement the room's aesthetic by featuring a sleek, minimalist design with clean lines and a neutral color palette. It should have a low profile and minimal cushions to maintain the space's open feel."
+    },
+    "knn_cat": "Sofa",
+    "top5": [
+      [
+        "Modern",
+        "Three-Seat / Multi-seat Sofa"
+      ],
+      [
+        "Modern",
+        "Loveseat Sofa"
+      ],
+      [
+        "Modern",
+        "Loveseat Sofa"
+      ],
+      [
+        "Modern",
+        "Three-Seat / Multi-seat Sofa"
+      ],
+      [
+        "Modern",
+        "Three-Seat / Multi-seat Sofa"
+      ]
+    ]
+  },
+  {
+    "scene": "mmis_eval/raw/Eclectic/03_16204.jpg",
+    "vlm": {
+      "room_style": "European Traditional",
+      "selected_category": "Bed",
+      "replacement_query": "This European Traditional bed features an ornate headboard with intricate carvings and a rich, dark wood finish. The design complements the room's traditional aesthetic by adding a touch of elegance and historical charm."
+    },
+    "knn_cat": "Bed",
+    "top5": [
+      [
+        "Modern",
+        "King-size Bed"
+      ],
+      [
+        "Modern",
+        "King-size Bed"
+      ],
+      [
+        "Modern",
+        "King-size Bed"
+      ],
+      [
+        "Modern",
+        "King-size Bed"
+      ],
+      [
+        "Modern",
+        "King-size Bed"
+      ]
+    ]
+  },
+  {
+    "scene": "mmis_eval/raw/Eclectic/02_17335.jpg",
+    "vlm": {
+      "room_style": "Modern",
+      "selected_category": "Chair",
+      "replacement_query": "This Modern Chair features sleek, angular lines and a neutral color palette that complements the room's minimalist aesthetic. It has a lightweight frame with a comfortable seat cushion, ideal for a contemporary dining or living space."
+    },
+    "knn_cat": "Table",
+    "top5": [
+      [
+        "Japanese",
+        "Dining Table"
+      ],
+      [
+        "Japanese",
+        "Desk"
+      ],
+      [
+        "Japanese",
+        "Dining Table"
+      ],
+      [
+        "Japanese",
+        "Dining Table"
+      ],
+      [
+        "Japanese",
+        "Dining Table"
+      ]
+    ]
+  },
+  {
+    "scene": "mmis_eval/raw/Bohemian/00_5098.jpg",
+    "vlm": {
+      "room_style": "Minimalist",
+      "selected_category": "Lighting",
+      "replacement_query": "This Minimalist lighting fixture could be replaced with a sleek, modern pendant light in a matte black finish. The new design would maintain the room's clean lines and neutral color palette while adding a subtle contemporary touch."
+    },
+    "knn_cat": "Lighting",
+    "top5": [
+      [
+        "Modern",
+        "Pendant Lamp"
+      ],
+      [
+        "Modern",
+        "Pendant Lamp"
+      ],
+      [
+        "Modern",
+        "Pendant Lamp"
+      ],
+      [
+        "Modern",
+        "Pendant Lamp"
+      ],
+      [
+        "Modern",
+        "Pendant Lamp"
+      ]
+    ]
+  }
+]

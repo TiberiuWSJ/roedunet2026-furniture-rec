@@ -1,0 +1,8 @@
+{
+  "model": "ViT-L-14",
+  "pretrained": "openai",
+  "embedding_dim": 768,
+  "n_objects": 2400,
+  "has_image_embeddings": true,
+  "built_at": "2026-09-22T18:21:32.435583Z"
+}

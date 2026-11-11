@@ -1,0 +1,90 @@
+{
+  "Mid-Century Modern": {
+    "Mid-Century Modern": 9,
+    "Contemporary": 9,
+    "Farmhouse": 1,
+    "Coastal": 1
+  },
+  "Traditional": {
+    "Traditional": 5,
+    "Contemporary": 4,
+    "Farmhouse": 2,
+    "Rustic": 2,
+    "Eclectic": 2,
+    "Art Deco": 2,
+    "Transitional": 1,
+    "Bohemian": 1,
+    "Coastal": 1
+  },
+  "Art Deco": {
+    "Art Deco": 8,
+    "Traditional": 1,
+    "Bohemian": 1,
+    "Eclectic": 2,
+    "Contemporary": 4,
+    "Transitional": 4
+  },
+  "Bohemian": {
+    "Bohemian": 3,
+    "Mid-Century Modern": 2,
+    "Farmhouse": 3,
+    "Contemporary": 5,
+    "Eclectic": 1,
+    "PARSE_FAIL": 1,
+    "Art Deco": 4,
+    "Rustic": 1
+  },
+  "Rustic": {
+    "Rustic": 7,
+    "Mid-Century Modern": 4,
+    "Contemporary": 2,
+    "Farmhouse": 4,
+    "Art Deco": 3
+  },
+  "Contemporary": {
+    "Contemporary": 16,
+    "Transitional": 1,
+    "Mid-Century Modern": 1,
+    "Art Deco": 2
+  },
+  "Mediterranean": {
+    "Mediterranean": 5,
+    "Contemporary": 3,
+    "Art Deco": 4,
+    "Farmhouse": 3,
+    "Mid-Century Modern": 1,
+    "Traditional": 1,
+    "Eclectic": 1,
+    "Transitional": 1,
+    "Coastal": 1
+  },
+  "Farmhouse": {
+    "Farmhouse": 13,
+    "Contemporary": 6,
+    "Coastal": 1
+  },
+  "Coastal": {
+    "Contemporary": 6,
+    "Coastal": 7,
+    "Art Deco": 3,
+    "Traditional": 1,
+    "Rustic": 1,
+    "Farmhouse": 2
+  },
+  "Eclectic": {
+    "Coastal": 2,
+    "Eclectic": 3,
+    "Contemporary": 7,
+    "Mid-Century Modern": 3,
+    "Art Deco": 4,
+    "Bohemian": 1
+  },
+  "Transitional": {
+    "Contemporary": 8,
+    "Farmhouse": 1,
+    "Art Deco": 4,
+    "Transitional": 5,
+    "Rustic": 1,
+    "Coastal": 1
+  }
+}

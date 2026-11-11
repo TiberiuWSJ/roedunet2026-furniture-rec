@@ -1,0 +1,39 @@
+{
+  "Bohemian": {
+    "PARSE_FAIL": 18,
+    "Transitional": 2
+  },
+  "Eclectic": {
+    "PARSE_FAIL": 20
+  },
+  "Traditional": {
+    "PARSE_FAIL": 20
+  },
+  "Rustic": {
+    "PARSE_FAIL": 20
+  },
+  "Art Deco": {
+    "PARSE_FAIL": 20
+  },
+  "Mid-Century Modern": {
+    "Transitional": 1,
+    "PARSE_FAIL": 19
+  },
+  "Farmhouse": {
+    "PARSE_FAIL": 20
+  },
+  "Contemporary": {
+    "PARSE_FAIL": 20
+  },
+  "Coastal": {
+    "Transitional": 2,
+    "PARSE_FAIL": 18
+  },
+  "Transitional": {
+    "PARSE_FAIL": 20
+  },
+  "Mediterranean": {
+    "PARSE_FAIL": 19,
+    "Transitional": 1
+  }
+}

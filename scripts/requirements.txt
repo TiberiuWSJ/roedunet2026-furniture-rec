@@ -1,0 +1,19 @@
+# Pipeline recomandare mobilier 3D-FUTURE
+# Instalare: pip install -r requirements.txt --break-system-packages
+
+# CLIP
+open_clip_torch>=2.24.0
+
+# VLM via LM Studio (OpenAI-compatible API)
+openai>=1.30.0
+
+# Rendering 3D
+trimesh>=4.0.0
+pyvista>=0.43.0
+
+# Utilitare
+Pillow>=10.0.0
+numpy>=1.26.0
+torch>=2.2.0
+torchvision>=0.17.0
+tqdm>=4.66.0

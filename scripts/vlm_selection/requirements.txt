@@ -1,0 +1,9 @@
+# Harness evaluare VLM
+requests>=2.31
+numpy>=1.24
+Pillow>=10.0
+matplotlib>=3.7
+# CLIP (doar pentru D4 / clip_index.py) — aceleași ca pipeline-ul de recomandare:
+open_clip_torch>=2.24
+torch>=2.2
+# Tier B / Tier A build folosesc doar numpy + Pillow (deja mai sus).
